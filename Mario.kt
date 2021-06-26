@@ -1,8 +1,10 @@
 package s4
+//mariooo
+
 import java.util.*
 import kotlin.concurrent.schedule
 class Mario(var vidas: Int =3){ //vamos a dejar setear el número de vidas al iniciar el objeto Mario
-
+  //mario bros
     init {
         println("It's a me! Mario!") //vamos a hacer que Mario se presente al construirlo!
     }
